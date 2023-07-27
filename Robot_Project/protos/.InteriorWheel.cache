@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: 0a4620527a99b24c5756a4fd1ecd913a
+containsDevices: 1
+baseType: HingeJoint
+slotType: 
+parameters: translation,rotation,anchor,name,sensorName
+tags: 
+license: 
+licenseUrl: 
+documentationUrl: 
+info: 

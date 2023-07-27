@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.4
+protoFileHash: 9d676d309c9c64ad15cf82cc626d4283
+containsDevices: 1
+baseType: Solid
+slotType: 
+parameters: translation,name
+tags: 
+license:  Copyright Cyberbotics Ltd. Licensed for use only with Webots.
+licenseUrl:  https://cyberbotics.com/webots_assets_license
+documentationUrl: 
+info: Physics-based\smodel\sof\sthe\sKhepera\sIII\sgripper\s(K-Team\sCorp.)\n
